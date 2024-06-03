@@ -7,11 +7,14 @@
 
 ## Agenda 
 
-1. Issues
-2. Pull Requests
-3. Discussions
-4. Notifications
-5. Gists, Wikis, GitHub Pages
+1. Issues: acompanhamento de tarefas, melhorias e bugs.
+2. Pull Requests: proposta para mesclar as alterações de um branch em outro. 
+3. Discussions: fórum de comunicação colaborativo sobre um  projeto interno ou de software livre.
+4. Notifications: atualizações sobre atividades assinadas.
+5. Gists, Wikis, GitHub Pages:
+   - **Gists**: repositórios Git para compartilhamento de snippets de código.
+   - **Wikis**: seção para hospedagem de documentação.
+   - **GitHub Pages**: serviço de hospedagem de site **estático** que usa arquivos HTML, CSS e JavaScript diretamente de um repositório no GitHub.
 	
 ## Laboratório:
 
